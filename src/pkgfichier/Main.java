@@ -14,6 +14,7 @@ public class Main {
             ligne=fic.readLine();
         }
         fic.close();
+        System.out.println("u");
     }
     public static void calcul () throws IOException {
         double [] resultat=new double[5];
